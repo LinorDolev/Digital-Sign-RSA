@@ -1,0 +1,3 @@
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/cmake-build-debug/CMakeFiles/Digital_Sign.dir

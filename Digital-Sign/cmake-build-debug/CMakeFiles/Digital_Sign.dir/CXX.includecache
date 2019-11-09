@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/errors.cpp
+errors.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/errors.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/errors.h
+iostream
+-
+fstream
+-
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/files.cpp
+cstring
+-
+iostream
+-
+stdio.h
+-
+rsa.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.h
+files.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/files.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/files.h
+string
+-
+fstream
+-
+iostream
+-
+hash.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/hash.h
+rsa.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.h
+errors.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/errors.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/hash.cpp
+hash.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/hash.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/hash.h
+string
+-
+iomanip
+-
+iostream
+-
+sstream
+-
+math.h
+-
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/main.cpp
+iostream
+-
+unistd.h
+-
+cstring
+-
+string.h
+-
+errors.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/errors.h
+files.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/files.h
+hash.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/hash.h
+rsa.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.cpp
+rsa.h
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.h
+
+/Users/roie/Documents/Exerecise Checking/C++/Digital-Sign/rsa.h
+random
+-
+iostream
+-
+algorithm
+-
+
